@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#first {
+  background: red;
+  height: 1000px;
+  color: white;
+}
+
+#second {
+  height: 200px;
+  background: blue;
+  margin-top: 10px;
+  color: white;
+}
+
+#vanilla-io {
+  height: 200px;
+  background: yellow;
+  margin-top: 10px;
+}
